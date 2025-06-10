@@ -12,7 +12,7 @@
 <br>
 
 <p align="left">
-  Welcome to my Certificates & Badges repository!  
+Welcome to my Certificates & Badges repository!  
 Here you'll find a curated collection of all my verified certificates, completed course badges, workshop participations, and other achievements from various platforms and institutions.
 
 This repo serves as a **central archive** for:
@@ -39,7 +39,7 @@ This repo serves as a **central archive** for:
         <img src="certificate-images/badge3-Photoroom.png" alt="Certificate 2" /><br>
       </td>
       <td align="center" width="500">
-        <img src="certificate-images/badge2-Photoroom.png" alt="Certificate 2" /><br>
+        <img src="certificate-images/badge4-Photoroom.png" alt="Certificate 2" /><br>
       </td>
        <td align="center" width="500" >
         <img src="certificate-images/badge3-Photoroom.png" alt="Certificate 2" /><br>
@@ -97,6 +97,31 @@ This repo serves as a **central archive** for:
         <img src="certificate-images/cert7.jpeg" alt="Certificate 2" width="500"/><br>
       </td>
     </tr>
+    <tr>
+      <td align="center" width="500" height="300">
+        <img src="certificate-images/ibmcert7.jpg" alt="Certificate 1" width="500"/><br>
+      </td>
+      <td align="center" width="500" height="300">
+        <img src="certificate-images/ibmcert8.jpg" alt="Certificate 2" width="500"/><br>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="500" height="300">
+        <img src="certificate-images/ibmcert9.jpg" alt="Certificate 1" width="500"/><br>
+      </td>
+      <td align="center" width="500" height="300">
+        <img src="certificate-images/ibmcert10.jpg" alt="Certificate 2" width="500"/><br>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="500" height="300">
+        <img src="certificate-images/ibmcert11.jpg" alt="Certificate 1" width="500"/><br>
+      </td>
+      <td align="center" width="500" height="300">
+        <img src="certificate-images/ibmcert12.jpg" alt="Certificate 2" width="500"/><br>
+      </td>
+    </tr>
+    <tr>
      <tr>
       <td align="center" width="500" height="300">
         <img src="certificate-images/ibmcert1.jpg" alt="Certificate 1" width="500"/><br>
