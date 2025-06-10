@@ -25,6 +25,23 @@ This repo serves as a **central archive** for:
 
 ---
 
+<div align="center">
+
+  <table>
+    <tr>
+      <td align="center" width="500" height="300">
+        <img src="certificate-images/cert1.jpeg" alt="Certificate 1" /><br>
+      </td>
+      <td align="center" width="500" height="300">
+        <img src="certificate-images/cert2.jpeg" alt="Certificate 2" /><br>
+      </td>
+    </tr>
+   
+  </table>
+
+</div>
+
+---
 <!-- Visually Centered Certificate Table -->
 <div align="center">
 
@@ -51,6 +68,30 @@ This repo serves as a **central archive** for:
       </td>
       <td align="center" width="500" height="300">
         <img src="certificate-images/cert7.jpeg" alt="Certificate 2" width="500"/><br>
+      </td>
+    </tr>
+     <tr>
+      <td align="center" width="500" height="300">
+        <img src="certificate-images/ibmcert1.jpg" alt="Certificate 1" width="500"/><br>
+      </td>
+      <td align="center" width="500" height="300">
+        <img src="certificate-images/ibmcert2.jpg" alt="Certificate 2" width="500"/><br>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="500" height="300">
+        <img src="certificate-images/ibmcert3.jpg" alt="Certificate 1" width="500"/><br>
+      </td>
+      <td align="center" width="500" height="300">
+        <img src="certificate-images/ibmcert4.jpg" alt="Certificate 2" width="500"/><br>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="500" height="300">
+        <img src="certificate-images/ibmcert5.jpg" alt="Certificate 1" width="500"/><br>
+      </td>
+      <td align="center" width="500" height="300">
+        <img src="certificate-images/ibmcert6.jpg" alt="Certificate 2" width="500"/><br>
       </td>
     </tr>
      <tr>
