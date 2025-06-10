@@ -30,19 +30,36 @@ This repo serves as a **central archive** for:
   <table>
     <tr>
       <td align="center" width="500" >
-        <img src="certificate-images/badge1.png" alt="Certificate 1" /><br>
+        <img src="certificate-images/badge1-Photoroom.png" alt="Certificate 1" /><br>
       </td>
-      <td align="center" width="500" height="300">
-        <img src="certificate-images/badge2.png" alt="Certificate 2" /><br>
+      <td align="center" width="500" >
+        <img src="certificate-images/badge2-Photoroom.png" alt="Certificate 2" /><br>
       </td>
-       <td align="center" width="500" height="300">
-        <img src="certificate-images/badge3.png" alt="Certificate 2" /><br>
+       <td align="center" width="500" >
+        <img src="certificate-images/badge3-Photoroom.png" alt="Certificate 2" /><br>
       </td>
-      <td align="center" width="500" height="300">
-        <img src="certificate-images/badge2.png" alt="Certificate 2" /><br>
+      <td align="center" width="500">
+        <img src="certificate-images/badge2-Photoroom.png" alt="Certificate 2" /><br>
       </td>
-       <td align="center" width="500" height="300">
-        <img src="certificate-images/badge3.png" alt="Certificate 2" /><br>
+       <td align="center" width="500" >
+        <img src="certificate-images/badge3-Photoroom.png" alt="Certificate 2" /><br>
+      </td>
+    </tr>
+     <tr>
+      <td align="center" width="500" >
+        <img src="certificate-images/badge1-Photoroom.png" alt="Certificate 1" /><br>
+      </td>
+      <td align="center" width="500" >
+        <img src="certificate-images/badge2-Photoroom.png" alt="Certificate 2" /><br>
+      </td>
+       <td align="center" width="500" >
+        <img src="certificate-images/badge3-Photoroom.png" alt="Certificate 2" /><br>
+      </td>
+      <td align="center" width="500">
+        <img src="certificate-images/badge2-Photoroom.png" alt="Certificate 2" /><br>
+      </td>
+       <td align="center" width="500" >
+        <img src="certificate-images/badge3-Photoroom.png" alt="Certificate 2" /><br>
       </td>
     </tr>
     
