@@ -134,7 +134,7 @@ This repo serves as a **central archive** for:
         <img src="certificate-images/reactcert.jpg" alt="Certificate 1" width="500"/><br>
       </td>
       <td align="center" width="500" height="300">
-        <img src="certificate-images/cert9.png" alt="Certificate 2" width="500"/><br>
+        <img src="certificate-images/codsoft.jpg" alt="Certificate 2" width="500"/><br>
       </td>
     </tr>
   </table>
