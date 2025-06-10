@@ -31,26 +31,34 @@ This repo serves as a **central archive** for:
   <table>
     <tr>
       <td align="center" width="500" height="300">
-        <b>Certificate Title 1</b><br>
-        <img src="path/to/certificate1.png" alt="Certificate 1" width="300"/><br>
-        <a href="link_to_certificate1">View Certificate</a>
+        <img src="certificate-images/cert1.jpeg" alt="Certificate 1" width="500"/><br>
       </td>
       <td align="center" width="500" height="300">
-        <b>Certificate Title 2</b><br>
-        <img src="path/to/certificate2.png" alt="Certificate 2" width="300"/><br>
-        <a href="link_to_certificate2">View Certificate</a>
+        <img src="certificate-images/cert2.jpeg" alt="Certificate 2" width="500"/><br>
       </td>
     </tr>
     <tr>
       <td align="center" width="500" height="300">
-        <b>Certificate Title 3</b><br>
-        <img src="path/to/certificate3.png" alt="Certificate 3" width="300"/><br>
-        <a href="link_to_certificate3">View Certificate</a>
+        <img src="certificate-images/cert3.jpeg" alt="Certificate 3" width="500"/><br>
       </td>
       <td align="center" width="400">
-        <b>Certificate Title 4</b><br>
-        <img src="path/to/certificate4.png" alt="Certificate 4" width="300"/><br>
-        <a href="link_to_certificate4">View Certificate</a>
+        <img src="certificate-images/cert5.jpeg" alt="Certificate 4" width="500"/><br>
+      </td>
+    </tr>
+     <tr>
+      <td align="center" width="500" height="300">
+        <img src="certificate-images/cert6.jpeg" alt="Certificate 1" width="500"/><br>
+      </td>
+      <td align="center" width="500" height="300">
+        <img src="certificate-images/cert7.jpeg" alt="Certificate 2" width="500"/><br>
+      </td>
+    </tr>
+     <tr>
+      <td align="center" width="500" height="300">
+        <img src="certificate-images/cert8.jpeg" alt="Certificate 1" width="500"/><br>
+      </td>
+      <td align="center" width="500" height="300">
+        <img src="certificate-images/cert9.png" alt="Certificate 2" width="500"/><br>
       </td>
     </tr>
   </table>
