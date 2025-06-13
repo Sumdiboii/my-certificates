@@ -36,16 +36,16 @@ This repo serves as a **central archive** for:
         <img src="certificate-images/badge2-Photoroom.png" alt="Certificate 2" /><br>
       </td>
        <td align="center" width="500" >
-        <img src="certificate-images/badge3-Photoroom.png" alt="Certificate 2" /><br>
+         <img src="certificate-images/coursera-badge-main.png" alt="Certificate 1" /><br>
       </td>
       <td align="center" width="500">
         <img src="certificate-images/badge4-Photoroom.png" alt="Certificate 2" /><br>
       </td>
-    </tr>
-     <tr>
       <td align="center" width="500" >
          <img src="certificate-images/badge6-Photoroom.png" alt="Certificate 1" /><br>
       </td>
+    </tr>
+     <tr>
       <td align="center" width="500" >
          <img src="certificate-images/badge7-Photoroom.png" alt="Certificate 1" /><br>
       </td>
@@ -55,19 +55,26 @@ This repo serves as a **central archive** for:
       <td align="center" width="500">
           <img src="certificate-images/badge9-Photoroom.png" alt="Certificate 1" /><br>
       </td>
-    </tr>
-    <tr>
-       <td align="center" width="500" >
+        <td align="center" width="500" >
           <img src="certificate-images/badge10-Photoroom.png" alt="Certificate 1" /><br>
       </td>
        <td align="center" width="500" >
           <img src="certificate-images/badge5-Photoroom.png" alt="Certificate 1" /><br>
+      </td>
+    </tr>
+    <tr>      
+       <td align="center" width="500" >
       </td>
        <td align="center" width="500" >
           <img src="certificate-images/badge11-Photoroom.png" alt="Certificate 1" /><br>
       </td>
        <td align="center" width="500" >
           <img src="certificate-images/badge12-Photoroom.png" alt="Certificate 1" /><br>
+      </td>
+       <td align="center" width="500" >
+        <img src="certificate-images/badge3-Photoroom.png" alt="Certificate 2" /><br>
+      </td>
+       <td align="center" width="500" >
       </td>
     </tr>
     
@@ -107,10 +114,10 @@ This repo serves as a **central archive** for:
     </tr>
      <tr>
       <td align="center" width="500" height="300">
-        <img src="certificate-images/f.jpg" alt="Certificate 1" width="500"/><br>
+        <img src="certificate-images/Coursera main_page-0001.jpg" alt="Certificate 1" width="500"/><br>
       </td>
       <td align="center" width="500" height="300">
-        <img src="certificate-images/f.jpg" alt="Certificate 2" width="500"/><br>
+        <img src="certificate-images/Coursera micro_page-0001.jpg" alt="Certificate 2" width="500"/><br>
       </td>
     </tr>
     <tr>
