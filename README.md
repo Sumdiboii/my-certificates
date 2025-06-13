@@ -97,6 +97,14 @@ This repo serves as a **central archive** for:
         <img src="certificate-images/cert7.jpeg" alt="Certificate 2" width="500"/><br>
       </td>
     </tr>
+     <tr>
+      <td align="center" width="500" height="300">
+        <img src="certificate-images/f.jpg" alt="Certificate 1" width="500"/><br>
+      </td>
+      <td align="center" width="500" height="300">
+        <img src="certificate-images/f.jpg" alt="Certificate 2" width="500"/><br>
+      </td>
+    </tr>
     <tr>
       <td align="center" width="500" height="300">
         <img src="certificate-images/ibmcert7.jpg" alt="Certificate 1" width="500"/><br>
@@ -115,10 +123,18 @@ This repo serves as a **central archive** for:
     </tr>
     <tr>
       <td align="center" width="500" height="300">
-        <img src="certificate-images/ibmcert11.jpg" alt="Certificate 1" width="500"/><br>
+        <img src="certificate-images/Coursera kbnets_page-0001.jpg" alt="Certificate 1" width="500"/><br>
       </td>
       <td align="center" width="500" height="300">
-        <img src="certificate-images/ibmcert12.jpg" alt="Certificate 2" width="500"/><br>
+        <img src="certificate-images/Coursera backend_page-0001.jpg" alt="Certificate 2" width="500"/><br>
+      </td>
+    </tr>
+     <tr>
+      <td align="center" width="500" height="300">
+        <img src="certificate-images/Coursera flask_page-0001.jpg" alt="Certificate 1" width="500"/><br>
+      </td>
+      <td align="center" width="500" height="300">
+        <img src="certificate-images/Coursera django_page-0001.jpg" alt="Certificate 2" width="500"/><br>
       </td>
     </tr>
     <tr>
