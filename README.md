@@ -41,25 +41,33 @@ This repo serves as a **central archive** for:
       <td align="center" width="500">
         <img src="certificate-images/badge4-Photoroom.png" alt="Certificate 2" /><br>
       </td>
-       <td align="center" width="500" >
-        <img src="certificate-images/badge3-Photoroom.png" alt="Certificate 2" /><br>
-      </td>
     </tr>
      <tr>
       <td align="center" width="500" >
-        <img src="certificate-images/badge1-Photoroom.png" alt="Certificate 1" /><br>
+         <img src="certificate-images/badge6-Photoroom.png" alt="Certificate 1" /><br>
       </td>
       <td align="center" width="500" >
-        <img src="certificate-images/badge2-Photoroom.png" alt="Certificate 2" /><br>
+         <img src="certificate-images/badge7-Photoroom.png" alt="Certificate 1" /><br>
       </td>
        <td align="center" width="500" >
-        <img src="certificate-images/badge3-Photoroom.png" alt="Certificate 2" /><br>
+         <img src="certificate-images/badge8-Photoroom.png" alt="Certificate 1" /><br>
       </td>
       <td align="center" width="500">
-        <img src="certificate-images/badge2-Photoroom.png" alt="Certificate 2" /><br>
+          <img src="certificate-images/badge9-Photoroom.png" alt="Certificate 1" /><br>
+      </td>
+    </tr>
+    <tr>
+       <td align="center" width="500" >
+          <img src="certificate-images/badge10-Photoroom.png" alt="Certificate 1" /><br>
       </td>
        <td align="center" width="500" >
-        <img src="certificate-images/badge3-Photoroom.png" alt="Certificate 2" /><br>
+          <img src="certificate-images/badge5-Photoroom.png" alt="Certificate 1" /><br>
+      </td>
+       <td align="center" width="500" >
+          <img src="certificate-images/badge11-Photoroom.png" alt="Certificate 1" /><br>
+      </td>
+       <td align="center" width="500" >
+          <img src="certificate-images/badge12-Photoroom.png" alt="Certificate 1" /><br>
       </td>
     </tr>
     
