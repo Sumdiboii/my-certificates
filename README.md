@@ -102,15 +102,15 @@ This repo serves as a **central archive** for:
         <img src="certificate-images/ibmcert7.jpg" alt="Certificate 1" width="500"/><br>
       </td>
       <td align="center" width="500" height="300">
-        <img src="certificate-images/ibmcert8.jpg" alt="Certificate 2" width="500"/><br>
+        <img src="certificate-images/coursera github cert_page-0001.jpg" alt="Certificate 2" width="500"/><br>
       </td>
     </tr>
     <tr>
       <td align="center" width="500" height="300">
-        <img src="certificate-images/ibmcert9.jpg" alt="Certificate 1" width="500"/><br>
+        <img src="certificate-images/Coursera frontend_page-0001.jpg" alt="Certificate 1" width="500"/><br>
       </td>
       <td align="center" width="500" height="300">
-        <img src="certificate-images/ibmcert10.jpg" alt="Certificate 2" width="500"/><br>
+        <img src="certificate-images/Coursera fsd capstone_page-0001.jpg" alt="Certificate 2" width="500"/><br>
       </td>
     </tr>
     <tr>
