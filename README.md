@@ -193,6 +193,22 @@ This repo serves as a **central archive** for:
         <img src="certificate-images/codsoft.jpg" alt="Certificate 2" width="500"/><br>
       </td>
     </tr>
+     <tr>
+      <td align="center" width="500" height="300">
+        <img src="certificate-images/codsoft-cpp-cert.jpg" alt="Certificate 1" width="500"/><br>
+      </td>
+      <td align="center" width="500" height="300">
+        <img src="certificate-images/ipl cert.jpg" alt="Certificate 2" width="500"/><br>
+      </td>
+    </tr>
+     <tr>
+      <td align="center" width="500" height="300">
+        <img src="certificate-images/ir cert.jpg" alt="Certificate 1" width="500"/><br>
+      </td>
+      <td align="center" width="500" height="300">
+        <img src="certificate-images/iste cert sumedh.jpg" alt="Certificate 2" width="500"/><br>
+      </td>
+    </tr>
     <tr>
       <td align="center" width="500" height="300">
         <img src="certificate-images/122B1B224-CERT1.png" alt="Certificate 1" width="500"/><br>
