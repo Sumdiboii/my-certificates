@@ -226,8 +226,13 @@ This repo serves as a **central archive** for:
       </td>
     </tr>
   </table>
-
 </div>
+
+<p align="center">
+  
+ <img src="certificate-images/Screenshot 2024-10-15 180119.png" alt="Certificate 1"/><br>
+ 
+</p>
 
 ---
 
