@@ -286,8 +286,10 @@ This repo serves as a **central archive** for:
 </div>
 
 <p align="center">
-  
+
  <img src="certificate-images/Screenshot 2024-10-15 180119.png" alt="Certificate 1"/><br>
+
+ <img src="certificate-images/sumdiboii.png" alt="Certificate 1"/><br>
  
 </p>
 
