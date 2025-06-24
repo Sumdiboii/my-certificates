@@ -83,6 +83,15 @@ This repo serves as a **central archive** for:
 
 </div>
 
+<br>
+
+<p align="center">
+  <a href="https://www.credly.com/users/sumedh-pimplikar">
+    <img src="https://img.shields.io/badge/Verify%20Badges-Credly-green?style=for-the-badge&logo=vercel" alt="🌐 View Portfolio" />
+  </a>
+</p>
+
+
 ---
 <!-- Visually Centered Certificate Table -->
 <div align="center">
