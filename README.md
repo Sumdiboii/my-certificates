@@ -106,6 +106,38 @@ This repo serves as a **central archive** for:
     </tr>
      <tr>
       <td align="center" width="500" height="300">
+        <img src="certificate-images/l1js.jpg" alt="Certificate 1" width="500"/><br>
+      </td>
+      <td align="center" width="500" height="300">
+        <img src="certificate-images/github-cert.jpg" alt="Certificate 2" width="500"/><br>
+      </td>
+    </tr>
+     <tr>
+      <td align="center" width="500" height="300">
+        <img src="certificate-images/github-cert2.jpg" alt="Certificate 1" width="500"/><br>
+      </td>
+      <td align="center" width="500" height="300">
+        <img src="certificate-images/github-cert3.jpg" alt="Certificate 2" width="500"/><br>
+      </td>
+    </tr>
+     <tr>
+      <td align="center" width="500" height="300">
+        <img src="certificate-images/github-cert4.jpg" alt="Certificate 1" width="500"/><br>
+      </td>
+      <td align="center" width="500" height="300">
+        <img src="certificate-images/github-main-cert.jpg" alt="Certificate 2" width="500"/><br>
+      </td>
+    </tr>
+     <tr>
+      <td align="center" width="500" height="300">
+        <img src="certificate-images/.jpg" alt="Certificate 1" width="500"/><br>
+      </td>
+      <td align="center" width="500" height="300">
+        <img src="certificate-images/.jpg" alt="Certificate 2" width="500"/><br>
+      </td>
+    </tr>
+     <tr>
+      <td align="center" width="500" height="300">
         <img src="certificate-images/cert6.jpeg" alt="Certificate 1" width="500"/><br>
       </td>
       <td align="center" width="500" height="300">
