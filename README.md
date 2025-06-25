@@ -139,10 +139,10 @@ This repo serves as a **central archive** for:
     </tr>
      <tr>
       <td align="center" width="500" height="300">
-        <img src="certificate-images/.jpg" alt="Certificate 1" width="500"/><br>
+        <img src="certificate-images/js-cert-es.jpg" alt="Certificate 1" width="500"/><br>
       </td>
       <td align="center" width="500" height="300">
-        <img src="certificate-images/.jpg" alt="Certificate 2" width="500"/><br>
+        <img src="certificate-images/js-main-cert.jpg" alt="Certificate 2" width="500"/><br>
       </td>
     </tr>
      <tr>
