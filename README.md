@@ -145,6 +145,22 @@ This repo serves as a **central archive** for:
         <img src="certificate-images/js-main-cert.jpg" alt="Certificate 2" width="500"/><br>
       </td>
     </tr>
+    <tr>
+      <td align="center" width="500" height="300">
+        <img src="certificate-images/ms1.jpg" alt="Certificate 1" width="500"/><br>
+      </td>
+      <td align="center" width="500" height="300">
+        <img src="certificate-images/ms2.jpg" alt="Certificate 2" width="500"/><br>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="500" height="300">
+        <img src="certificate-images/ms3.jpg" alt="Certificate 1" width="500"/><br>
+      </td>
+      <td align="center" width="500" height="300">
+        <img src="certificate-images/ms4.jpg" alt="Certificate 2" width="500"/><br>
+      </td>
+    </tr>
      <tr>
       <td align="center" width="500" height="300">
         <img src="certificate-images/cert6.jpeg" alt="Certificate 1" width="500"/><br>
