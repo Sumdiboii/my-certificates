@@ -163,6 +163,22 @@ This repo serves as a **central archive** for:
     </tr>
      <tr>
       <td align="center" width="500" height="300">
+        <img src="certificate-images/ms5.jpg" alt="Certificate 1" width="500"/><br>
+      </td>
+      <td align="center" width="500" height="300">
+        <img src="certificate-images/ms6.jpg" alt="Certificate 2" width="500"/><br>
+      </td>
+    </tr>
+     <tr>
+      <td align="center" width="500" height="300">
+        <img src="certificate-images/ms7.jpg" alt="Certificate 1" width="500"/><br>
+      </td>
+      <td align="center" width="500" height="300">
+        <img src="certificate-images/ms8.jpg" alt="Certificate 2" width="500"/><br>
+      </td>
+    </tr>
+     <tr>
+      <td align="center" width="500" height="300">
         <img src="certificate-images/cert6.jpeg" alt="Certificate 1" width="500"/><br>
       </td>
       <td align="center" width="500" height="300">
