@@ -115,6 +115,14 @@ This repo serves as a **central archive** for:
     </tr>
      <tr>
       <td align="center" width="500" height="300">
+        <img src="certificate-images/CertificateOfCompletion_Agile Foundations_page-0001.jpg" alt="Certificate 1" width="500"/><br>
+      </td>
+      <td align="center" width="500" height="300">
+        <img src="certificate-images/CertificateOfCompletion_Atlassian Agile Project Management Professional Certificate_page-0001.jpg" alt="Certificate 2" width="500"/><br>
+      </td>
+    </tr>
+     <tr>
+      <td align="center" width="500" height="300">
         <img src="certificate-images/l1js.jpg" alt="Certificate 1" width="500"/><br>
       </td>
       <td align="center" width="500" height="300">
