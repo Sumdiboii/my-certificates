@@ -182,7 +182,31 @@ This repo serves as a **central archive** for:
         <img src="certificate-images/ms7.jpg" alt="Certificate 1" width="500"/><br>
       </td>
       <td align="center" width="500" height="300">
-        <img src="certificate-images/ms7.jpg" alt="Certificate 2" width="500"/><br>
+        <img src="certificate-images/g1.jpg" alt="Certificate 2" width="500"/><br>
+      </td>
+    </tr>
+     <tr>
+      <td align="center" width="500" height="300">
+        <img src="certificate-images/g2.jpg" alt="Certificate 1" width="500"/><br>
+      </td>
+      <td align="center" width="500" height="300">
+        <img src="certificate-images/g3.jpg" alt="Certificate 2" width="500"/><br>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="500" height="300">
+        <img src="certificate-images/g4.jpg" alt="Certificate 1" width="500"/><br>
+      </td>
+      <td align="center" width="500" height="300">
+        <img src="certificate-images/g5.jpg" alt="Certificate 2" width="500"/><br>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="500" height="300">
+        <img src="certificate-images/g6.jpg" alt="Certificate 1" width="500"/><br>
+      </td>
+      <td align="center" width="500" height="300">
+        <img src="certificate-images/g7.jpg" alt="Certificate 2" width="500"/><br>
       </td>
     </tr>
      <tr>
