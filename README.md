@@ -106,6 +106,15 @@ This repo serves as a **central archive** for:
       </td>
     </tr>
     <tr>
+        <tr>
+      <td align="center" width="500" height="300">
+        <img src="certificate-images/udemy-cc.jpg" alt="Certificate 1" width="500"/><br>
+      </td>
+      <td align="center" width="500" height="300">
+        <img src="certificate-images/cert2.jpeg" alt="Certificate 2" width="500"/><br>
+      </td>
+    </tr>
+    <tr>
       <td align="center" width="500" height="300">
         <img src="certificate-images/cert3.jpeg" alt="Certificate 3" width="500"/><br>
       </td>
