@@ -368,15 +368,15 @@ This repo serves as a **central archive** for:
         <img src="certificate-images/industrial-cert.jpg" alt="Certificate 1" width="500"/><br>
       </td>
       <td align="center" width="500" height="300">
-        <img src="certificate-images/inhouse-cert.jpg" alt="Certificate 2" width="500"/><br>
+        <img src="certificate-images/spons-proj-letter" alt="Certificate 2" width="500"/><br>
       </td>
     </tr>
     <tr>
       <td align="center" width="500" height="300">
-        <img src="certificate-images/spons-proj-letter.jpg" alt="Certificate 1" width="500"/><br>
+        <img src="certificate-images/inhouse-cert-offer.jpeg" alt="Certificate 1" width="500"/><br>
       </td>
       <td align="center" width="500" height="300">
-        <img src="certificate-images/industrial-cert.jpg" alt="Certificate 2" width="500"/><br>
+        <img src="certificate-images/inhouse-cert-comp.jpg" alt="Certificate 2" width="500"/><br>
       </td>
     </tr>
   </table>
