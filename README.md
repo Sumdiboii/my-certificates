@@ -64,6 +64,7 @@ This repo serves as a **central archive** for:
     </tr>
     <tr>      
        <td align="center" width="500" >
+         <img src="certificate-images/cybersecurity_administration_3.png" alt="Certificate 2" /><br>
       </td>
        <td align="center" width="500" >
           <img src="certificate-images/badge11-Photoroom.png" alt="Certificate 1" /><br>
@@ -378,6 +379,30 @@ This repo serves as a **central archive** for:
       </td>
       <td align="center" width="500" height="300">
         <img src="certificate-images/inhouse-cert-comp.jpg" alt="Certificate 2" width="500"/><br>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="500" height="300">
+        <img src="certificate-images/docker1.jpg" alt="Certificate 1" width="500"/><br>
+      </td>
+      <td align="center" width="500" height="300">
+        <img src="certificate-images/docker2.jpg" alt="Certificate 2" width="500"/><br>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="500" height="300">
+        <img src="certificate-images/docker3.jpg" alt="Certificate 1" width="500"/><br>
+      </td>
+      <td align="center" width="500" height="300">
+        <img src="certificate-images/docker4.jpg" alt="Certificate 2" width="500"/><br>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="500" height="300">
+        <img src="certificate-images/cisco.jpg" alt="Certificate 1" width="500"/><br>
+      </td>
+      <td align="center" width="500" height="300">
+        <img src="certificate-images/cisco.jpg" alt="Certificate 2" width="500"/><br>
       </td>
     </tr>
   </table>
