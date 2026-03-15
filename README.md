@@ -75,6 +75,7 @@ This repo serves as a **central archive** for:
         <img src="certificate-images/badge3-Photoroom.png" alt="Certificate 2" /><br>
       </td>
        <td align="center" width="500" >
+          <img src="certificate-images/Badge of Completion.png" alt="Certificate 2" /><br>
       </td>
     </tr>
     
