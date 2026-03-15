@@ -405,6 +405,14 @@ This repo serves as a **central archive** for:
         <img src="certificate-images/cisco.jpg" alt="Certificate 2" width="500"/><br>
       </td>
     </tr>
+    <tr>
+      <td align="center" width="500" height="300">
+        <img src="certificate-images/ciscocert2.jpg" alt="Certificate 1" width="500"/><br>
+      </td>
+      <td align="center" width="500" height="300">
+        <img src="certificate-images/oraclecert.jpg" alt="Certificate 2" width="500"/><br>
+      </td>
+    </tr>
   </table>
 </div>
 
