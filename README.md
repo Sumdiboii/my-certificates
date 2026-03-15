@@ -64,7 +64,7 @@ This repo serves as a **central archive** for:
     </tr>
     <tr>      
        <td align="center" width="500" >
-         <img src="certificate-images/oraclebadge2.png" alt="Certificate 2" /><br>
+         <img src="certificate-images/oraclebadge22.png" alt="Certificate 2" /><br>
       </td>
        <td align="center" width="500" >
           <img src="certificate-images/badge11-Photoroom.png" alt="Certificate 1" /><br>
